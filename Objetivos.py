@@ -1,0 +1,1 @@
+print('El objetivo de este documento es la creación de branches en un repositorio compartido de GitHub')
